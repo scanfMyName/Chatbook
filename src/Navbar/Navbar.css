@@ -1,0 +1,22 @@
+nav{
+background-color: rgb(97, 91, 91);
+align-items: center;
+justify-content: space-around;
+display: flex;
+height: 12vh;
+font-size:2em;
+width: 100vw;
+}
+.nav-links {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.nav-links ul li{
+    
+    text-decoration: none;
+    font-size: 1.3rem;
+}
