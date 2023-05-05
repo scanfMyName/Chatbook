@@ -26,7 +26,7 @@ cd ..
 npm run dev
 ```
 
-If any dependencies are missing, you can install them using npm and the `package.json` files provided in the project and backend folders. Once all dependencies have been installed, run the command \`npm run dev\` to start the application.
+If any dependencies are missing, you can install them using npm and the `package.json` files provided in the project and backend folders. Once all dependencies have been installed, run the command `npm run dev` to start the application.
 
 Please make a new cluster in MongoDB; the previous one may have been terminated, and include that API in the key.js file of the config folder at the Backend folder.
 
